@@ -41,11 +41,13 @@ Using this module requires an account with Tradestation and API key activated fo
 * Step 5: Complete authentication steps (Optional, see the end of this section)
 * Step 6: Pass session info you saved to the desired API functions
   * Example: `get_bars(sesh, 'MSFT')`
-  * Returns or streams request json - see Tradestation API Docs for more info on the format
+  * Returns or streams request json - see Tradestation API Docs for more info on the format   
 
 *To use as a Python Script:*
-* Simply import `ts.py` and skip to Step 4 above
+* Install dependencies, import `ts.py` and skip to Step 4 above
 
-*For a more detailed description of how to authenticate your account, see the notes included in `TradestationAPI.ipynb`*
+<p>For a more detailed description of how to authenticate your account, see the notes included in `TradestationAPI.ipynb`*</p>
+<p>See `TradestationAPI.ipynb` for more notes on usage and how the program works or to get started using the SDK.
+Also see `main.py` for an example script.</p>
 
 ## [LICENSE](https://github.com/al-gladkow/Unofficial-Tradestation-API-SDK-for-Python-3.10/blob/main/LICENSE)

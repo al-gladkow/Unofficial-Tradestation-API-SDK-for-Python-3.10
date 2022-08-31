@@ -3,7 +3,7 @@
 <br>
 *Alec Gladkowski*
 
-[Please read `warning.txt` before cloning this repo.](https://github.com/al-gladkow/Unofficial-Tradestation-API-SDK-for-Python-3.10/blob/main/warning.txt)
+[Please read before cloning this repo.](https://github.com/al-gladkow/Unofficial-Tradestation-API-SDK-for-Python-3.10/blob/main/warning.txt)
 
 ## Description
 This module provides functionality for interfacing with the [Tradestation](https://www.tradestation.com/) API to access account information, market data, and trading functionalities. It is not intended for corporate use and was created as a personal project. No copyright infringement was intended; please contact the repository owner for any inquiries and/or complaints regarding this.

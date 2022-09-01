@@ -39,11 +39,9 @@ This module provides functionality for interfacing with the [Tradestation API](h
 `sesh = open_session()`<br>
 `get_bars(sesh, 'MSFT')`
 
-See `main.py` for an example
+See `main.py` for an example script
 
-For a more detailed description of how to authenticate your account, see the notes included in `TradestationAPI.ipynb`<br>
-See `TradestationAPI.ipynb` for more notes on usage and how the program works or to get started using the SDK.<br>
-Also see `main.py` for an example script.
+For more detailed descriptions of how to use the module, see the notes included in `TradestationAPI.ipynb`<br>
 
 ## License
 GNU GPLv3. [Here.](https://github.com/al-gladkow/Unofficial-Tradestation-API-SDK-for-Python-3.10/blob/main/LICENSE)

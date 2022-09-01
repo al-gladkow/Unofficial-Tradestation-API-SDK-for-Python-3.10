@@ -31,7 +31,7 @@ This module provides functionality for interfacing with the [Tradestation API](h
 * Call `open_session` and save the returned session info to a variable (you will need this often)
 * Complete authentication
 * Pass session info you saved to the desired API functions
-  * Returns or streams request json
+  * Returns or streams response json
 
 *To use as a Python Script:*
 

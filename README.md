@@ -1,7 +1,5 @@
 # Unofficial Tradestation API SDK for Python 3.10
-**Version 0.0.1**
 <br>
-*Alec Gladkowski*
 
 [BY CLONING THIS REPO YOU AGREE TO THESE TERMS.](https://github.com/al-gladkow/Unofficial-Tradestation-API-SDK-for-Python-3.10/blob/main/warning.txt)
 

@@ -6,7 +6,7 @@
 [BY CLONING THIS REPO YOU AGREE TO THESE TERMS.](https://github.com/al-gladkow/Unofficial-Tradestation-API-SDK-for-Python-3.10/blob/main/warning.txt)
 
 ## Description
-This module provides functionality for interfacing with the [Tradestation API](https://www.tradestation.com/platforms-and-tools/trading-api/) to access account information, market data, and trading functionalities. **It is intended to be used for testing purposes and is not complete**. No copyright infringement was intended; please contact the repository owner for any inquiries and/or complaints regarding this.
+This module provides functionality for interfacing with the [Tradestation API (V3)](https://www.tradestation.com/platforms-and-tools/trading-api/) to access account information, market data, and trading functionalities. **It is intended to be used for testing purposes and is not complete**. No copyright infringement was intended; please contact the repository owner for any inquiries and/or complaints regarding this.
 
 **Using this module requires an account with Tradestation and with an active API key.**
 

@@ -42,4 +42,4 @@ Using this module requires an account with Tradestation and API key activated fo
 <p>See `TradestationAPI.ipynb` for more notes on usage and how the program works or to get started using the SDK.
 Also see `main.py` for an example script.</p>
 
-## [LICENSE](https://github.com/al-gladkow/Unofficial-Tradestation-API-SDK-for-Python-3.10/blob/main/LICENSE)
+[LICENSE](https://github.com/al-gladkow/Unofficial-Tradestation-API-SDK-for-Python-3.10/blob/main/LICENSE)

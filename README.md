@@ -1,5 +1,4 @@
 # Unofficial Tradestation API SDK for Python 3.10
-<br>
 
 [BY CLONING THIS REPO YOU AGREE TO THESE TERMS.](https://github.com/al-gladkow/Unofficial-Tradestation-API-SDK-for-Python-3.10/blob/main/warning.txt)
 
@@ -14,8 +13,8 @@ This module provides functionality for interfacing with the [Tradestation API (V
 * [pytz](https://pypi.org/project/pytz/)
 * [requests](https://pypi.org/project/requests/)
 
-*For auto login functionality:*
-<br>
+*For auto login functionality:*<br>
+
 * [Google Chrome](https://www.google.com/chrome/index.html)
 * [Chrome Web Driver](https://sites.google.com/chromium.org/driver/downloads)
 * [Splinter](https://splinter.readthedocs.io/en/latest/install.html)
